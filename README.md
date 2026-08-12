@@ -1,4 +1,4 @@
-![Uber Mysql](https://github.com/ajayvarmaco/Uber/blob/main/Data/Images/ubertopbanner.png)
+![Uber Mysql](https://github.com/chetanyakuchhal/Uber/blob/main/Data/Images/ubertopbanner.png)
 
 # Uber - Operational Insights & Revenue Optimization
 
